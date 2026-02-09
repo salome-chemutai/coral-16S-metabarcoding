@@ -4,7 +4,7 @@ based on 16S rRNA gene (V5–V6 region) metabarcoding data.
 
 ## Study system
 - Coral species: Acropora tenuis, Acropora verweyi, Stylophora pistillata
-- Study area: Shimoni, South Coast of Kenya
+- Study area: Shimoni, South Coast of Kenya (Coral restoration site by REEFolution Foundation)
 - Marker: 16S rRNA (V5–V6)
 - Pipeline: DADA2 and R
 
