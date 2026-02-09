@@ -1,5 +1,5 @@
 ### 09_statistical_permanova_BH_tests.R ###
-# PERMANOVA tests for coral microbiome experiments
+# PERMANOVA tests for coral microbiome experiments/coral species
 
 #### . Coral Bleaching: Treatment/Coral species effect ####
 
