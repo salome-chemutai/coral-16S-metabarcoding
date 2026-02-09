@@ -2,15 +2,16 @@
 This repository contains scripts used to analyse coral-associated bacterial communities
 based on 16S rRNA gene (V5–V6 region) metabarcoding data.
 
-## Study system
+## Study System
 - Coral species: Acropora tenuis, Acropora verweyi, Stylophora pistillata
 - Study area: Shimoni, South Coast of Kenya (Coral restoration site by REEFolution Foundation)
 - Marker: 16S rRNA (V5–V6)
 - Pipeline: DADA2 and R
 
-## Repository contents
+## Repository Contents
 - scripts/ – R scripts for sequence processing and analysis
-- data/ – metadata and example input files
+- data/ – metadata file
+- phyloseq/ – cleaned phyloseq object
 
 ## Software
 - R
