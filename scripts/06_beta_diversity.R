@@ -10,7 +10,7 @@ ps <- readRDS("ps.cleaned_N.rds")
 
 # Subset samples
 ps.bleaching <- subset_samples(
-  ps,
+  ps.cleaned_N,
   Coral_species %in% c("Acropora_tenuis", "Acropora_verweyi") &
     Experiment == "Coral_bleaching"
 )
@@ -56,7 +56,7 @@ plot_ordination(ps.genus.bleaching, ord.pcoa.genus,
 
 # Subset samples
 ps.intertidal <- subset_samples(
-  ps,
+  ps.cleaned_N,
   Coral_species %in% c("Acropora_tenuis", "Stylophora_pistillata") &
     Experiment == "Intertidal_2022"
 )
@@ -101,7 +101,7 @@ plot_ordination(ps.genus.intertidal, ord.pcoa.genus,
 
 # Subset samples
 ps.structure <- subset_samples(
-  ps,
+  ps.cleaned_N,
   Structure %in% c("Artificial_structure", "Natural_reef") &
     Experiment == "Intertidal_2022"
 )
