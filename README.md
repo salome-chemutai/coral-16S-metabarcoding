@@ -20,4 +20,7 @@ based on 16S rRNA gene (V5–V6 region) metabarcoding data.
 - vegan
 - ggplot2
 
-Raw sequencing data are not included due to file size limitations.
+## Reproducibility
+Raw sequencing data are not included due to file size constraints
+All scripts used for sequence processing and downstream analyses
+are provided for reproducibility
