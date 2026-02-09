@@ -11,7 +11,6 @@ based on 16S rRNA gene (V5–V6 region) metabarcoding data.
 ## Repository contents
 - scripts/ – R scripts for sequence processing and analysis
 - data/ – metadata and example input files
-- results/ – figures and summary tables
 
 ## Software
 - R
