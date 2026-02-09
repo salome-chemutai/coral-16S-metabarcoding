@@ -10,7 +10,7 @@ based on 16S rRNA gene (V5–V6 region) metabarcoding data.
 
 ## Repository Contents
 - scripts/ – R scripts for sequence processing and analysis
-- data/ – metadata file
+- data/ – sample metadata file
 - phyloseq/ – cleaned phyloseq object
 
 ## Software
